@@ -1,6 +1,8 @@
-# FlagKit ![SE](https://github.com/madebybowtie/FlagKit/blob/master/Images/SE@2x.png)
+# FlagKit ![SE](https://github.com/danbovey/FlagKit/blob/master/Images/SE@2x.png)
 
 Beautiful flag icons for usage in apps and on the web.
+
+This fork of [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit), removes the border radius from all flags.
 
 ## Installation (iOS/OSX)
 #### `FlagKit.xcassets`
